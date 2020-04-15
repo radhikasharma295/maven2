@@ -27,12 +27,12 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>virtusaradhika</id>
+            <id>deployment</id>
             <name>Internal Releases</name>
             <url>http://18.217.103.220:8081/repository/sharma-release/</url>
         </repository>
         <snapshotRepository>
-            <id>virtusaradhika</id>
+            <id>deployment</id>
             <name>Internal Snapshot Releases</name>
             <url>http://18.217.103.220:8081/repository/sharma-snapshot/</url>
         </snapshotRepository>
